@@ -4,6 +4,10 @@ Model generate description of image using CNN and LSTM.
 <h2>Accuracy</h2>
 Blue Score = 0.5
 
+<h2>Downloads</h2>
+Download the dataset and preprossed the file using following links:
+https://drive.google.com/drive/folders/1ShOxAOtFYR29y2RKqXcNEkBbwq4e7CtJ?usp=sharing
+
 <h1>Output</h1>
 <h3>Image1</h3>
   
